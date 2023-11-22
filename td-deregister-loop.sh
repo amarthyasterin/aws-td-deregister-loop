@@ -1,6 +1,6 @@
 #!/bin/bash -ex
 
-TASKNAME="dev-mta-taxhero-co-uk-TD"
+TASKNAME="dev-TD"
 START=1
 END=387
 
